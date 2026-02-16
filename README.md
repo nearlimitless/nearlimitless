@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-1E1E1E?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clip%20Studio%20Paint-1E1E1E?style=for-the-badge&logo=clipstudio&logoColor=white"/>
 </p>
+
 ```html
 <h3>Links to my Projects (in progress)</h3>
   <p>Guest Book: </p>
