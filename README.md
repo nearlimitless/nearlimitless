@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/Clip%20Studio%20Paint-1E1E1E?style=for-the-badge&logo=clipstudio&logoColor=white"/>
 </p>
 
-<h3>Link/s</h3>
-  <p>
-    Guest Book:
-    Portfolio:
-  </p>
+<h3>Links to my Projects (in progress)</h3>
+  <p>Guest Book: </p>
+  <p>Personal Portfolio: </p>
