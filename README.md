@@ -14,7 +14,18 @@
 </p>
 
 ```html
-<h3>Links to my Projects (in progress)</h3>
-  <p>Guest Book: </p>
-  <p>Personal Portfolio: </p>
+<h3>Project Links</h3>
+<p><em>Currently under development</em></p>
+
+<ul>
+  <li>
+    <strong>Guest Book</strong><br>
+    <a href="#">View Project</a>
+  </li>
+  <li>
+    <strong>Personal Portfolio</strong><br>
+    <a href="#">View Project</a>
+  </li>
+</ul>
+
 ```
