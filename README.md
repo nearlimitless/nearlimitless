@@ -15,18 +15,6 @@
 
 ```html
 
-<h3>Project Links</h3>
-<p>Currently under development</p>
-
-<ul>
-  <li>
-   <p>Guest Book:</p>
-   <a href="#">View Project</a>
-  </li>
-  <li>
-    <p>Personal Portfolio: </p>
-    <a href="#">View Project</a>
-  </li>
-</ul>
+... in progress
 
 ```
