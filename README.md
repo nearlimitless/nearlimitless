@@ -14,16 +14,17 @@
 </p>
 
 ```html
+
 <h3>Project Links</h3>
-<p><em>Currently under development</em></p>
+<p>Currently under development</p>
 
 <ul>
   <li>
-    <strong>Guest Book</strong><br>
-    <a href="#">View Project</a>
+   <p>Guest Book:</p>
+   <a href="#">View Project</a>
   </li>
   <li>
-    <strong>Personal Portfolio</strong><br>
+    <p>Personal Portfolio: </p>
     <a href="#">View Project</a>
   </li>
 </ul>
