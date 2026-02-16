@@ -1,5 +1,5 @@
-<p>
-  <img src="https://aniyuki.com/wp-content/uploads/2023/09/aniyuki-gojo-satoru-gif-24.gif" align="center" alt="Profile Banner">
+<p align="center">
+  <img src="https://aniyuki.com/wp-content/uploads/2023/09/aniyuki-gojo-satoru-gif-24.gif" alt="Profile Banner">
 </p>
 
 <p align="center">
