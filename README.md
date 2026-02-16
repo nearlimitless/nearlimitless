@@ -1,3 +1,7 @@
+<p>
+  <img src="https://aniyuki.com/wp-content/uploads/2023/09/aniyuki-gojo-satoru-gif-24.gif" alt="Profile Banner">
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white"/>
