@@ -11,6 +11,6 @@
 
 ```html
 
-... in progress
+... a work in progress
 
 ```
